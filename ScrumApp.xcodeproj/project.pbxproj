@@ -17,6 +17,7 @@
 		691EA8C22A5ECB76002E5EFF /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691EA8C12A5ECB76002E5EFF /* TrailingIconLabelStyle.swift */; };
 		691EA8C42A5EFE85002E5EFF /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691EA8C32A5EFE85002E5EFF /* ScrumsView.swift */; };
 		697926EF2A615CB9007E379F /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697926EE2A615CB9007E379F /* DetailView.swift */; };
+		697926F12A65465C007E379F /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697926F02A65465C007E379F /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		691EA8C12A5ECB76002E5EFF /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		691EA8C32A5EFE85002E5EFF /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		697926EE2A615CB9007E379F /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		697926F02A65465C007E379F /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				691EA8C12A5ECB76002E5EFF /* TrailingIconLabelStyle.swift */,
 				691EA8C32A5EFE85002E5EFF /* ScrumsView.swift */,
 				697926EE2A615CB9007E379F /* DetailView.swift */,
+				697926F02A65465C007E379F /* DetailEditView.swift */,
 			);
 			path = ScrumApp;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				691EA8BE2A5EC583002E5EFF /* DailyScrum.swift in Sources */,
 				697926EF2A615CB9007E379F /* DetailView.swift in Sources */,
+				697926F12A65465C007E379F /* DetailEditView.swift in Sources */,
 				691EA8C22A5ECB76002E5EFF /* TrailingIconLabelStyle.swift in Sources */,
 				691EA8AF2A5C3353002E5EFF /* MeetingView.swift in Sources */,
 				691EA8C42A5EFE85002E5EFF /* ScrumsView.swift in Sources */,
